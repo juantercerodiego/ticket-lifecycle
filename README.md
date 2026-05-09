@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - The Ticket Lifecycle</h1>
-Setting up the server is only half the battle. This section shows the software in action, tracking a help request from the moment a user asks for help until the problem is fixed.<br />
+This section demonstrates the day-to-day use of the help desk. I walk through how a ticket is created, prioritized by an agent, and eventually resolved to ensure the user's problem is fixed.<br />
 
 
 
@@ -12,8 +12,9 @@ Setting up the server is only half the battle. This section shows the software i
 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop (RDP)
-- Internet Information Services (IIS)
-- MySQL & PHP Manager
+- osTicket (Helpdesk Software)
+- HeidiSQL (To see the data update in the background)
+- Web Browser (Chrome or Edge)
 
 <h2>Operating Systems Used </h2>
 
@@ -21,12 +22,9 @@ Setting up the server is only half the battle. This section shows the software i
 
 <h2>List of Prerequisites</h2>
 
-- **Microsoft Azure Subscription**: Used to host the virtual server environment.
-- **Windows 10 VM**: Deployed as the primary workstation and web server.
-- **IIS (Internet Information Services)**: Enabled with CGI to host the web application.
-- **PHP 7.4 & MySQL**: Essential for processing application scripts and storing ticket data.
-- **osTicket Files**: Core application files configured within the web server directory.
-
+- **osTicket Installed**: The server must be live and reachable.
+- **Admin/Agent Account**: Created during the installation phase.
+- **Test User Account**: A dummy account to act as the "customer" with a problem.
 <h2>Installation Steps</h2>
 <h2>Step 1: Setting up the Virtual Workspace</h2>
 
