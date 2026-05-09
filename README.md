@@ -36,30 +36,30 @@ This section demonstrates the day-to-day use of the help desk. I walk through ho
 Every issue starts with a request. A user fills out a simple form explaining what’s wrong like("I forgot my password"). The system then assigns a unique ticket number so the request is never lost or forgotten.
 </p>
 <br />
-<h2>Step 2: Preparing the Web Server (IIS)</h2>
+<h2>Step 2: The Hand-off (Assignment) </h2>
 <p>
 <img width="647" height="493" alt="step 2" src="https://github.com/user-attachments/assets/4b008e5f-5591-4361-aee3-465137420484" />
 </p>
 <p>
-Computers don't know how to host websites by default. You have to enable Internet Information Services (IIS) in Windows Features.
+The ticket goes to the right "department" (like Support or Billing). A specific person, called an Agent, takes ownership of it.
 </p>
 <br />
-<h2>Step 3: Installing the "Translators" (PHP)</h2>
+<h2>Step 3: The Work (In Progress)</h2>
 <p>
 <img width="951" height="510" alt="step 3" src="https://github.com/user-attachments/assets/d9c3ee16-3b5d-4db7-8500-6e9c2b7b36c4" />
 
 </p>
 <p>
-The ticketing system is written in a language called PHP. Since Windows doesn't speak PHP naturally, you have to install it and use PHP Manager to link it to the IIS web server.
+The Agent talks back and forth with the user, troubleshoots the issue, and works on a fix.
 </p>
 <br />
-<h2>Step 4: Building the Filing Cabinet (MySQL)</h2>
+<h2>Step 4: The Finish Line (Resolved/Closed)</h2>
 <p>
 <img width="980" height="598" alt="step4" src="https://github.com/user-attachments/assets/445a572f-782c-41a7-b1e7-136735e64e7f" />
 
 </p>
 <p>
-Every help desk needs a place to save information like ticket numbers and user messages. I used a tool called HeidiSQL to create a private database named "osticket." Think of this as the digital filing cabinet where the system securely stores and organizes everything so nothing gets lost.
+Once the problem is fixed, the Agent marks it as "Resolved." The user gets a final notification, and the ticket is filed away in your digital cabinet.
 </p>
 <br />
 <h2>Step 5: (Final Install & Success)</h2>
