@@ -2,8 +2,8 @@
 <img src="https://sjredwings-cdn.fxbrt.com/downloads/icons/os_ticket_sj_logo.png"/>
 </p>
 
-<h1>osTicket - System Setup & Lab Environment</h1>
-This guide provides a step-by-step walkthrough of deploying osTicket, covering everything from environment prerequisites to final server installation..<br />
+<h1>osTicket - The Ticket Lifecycle</h1>
+Setting up the server is only half the battle. This section shows the software in action, tracking a help request from the moment a user asks for help until the problem is fixed.<br />
 
 
 
