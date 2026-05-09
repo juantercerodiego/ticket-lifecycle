@@ -33,7 +33,7 @@ This section demonstrates the day-to-day use of the help desk. I walk through ho
 
 </p>
 <p>
-Every issue starts with a request. A user fills out a simple form explaining what’s wrong. The system then assigns a unique ticket number so the request is never lost or forgotten.
+Every issue starts with a request. A user fills out a simple form explaining what’s wrong like("I forgot my password"). The system then assigns a unique ticket number so the request is never lost or forgotten.
 </p>
 <br />
 <h2>Step 2: Preparing the Web Server (IIS)</h2>
