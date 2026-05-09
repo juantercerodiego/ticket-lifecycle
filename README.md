@@ -10,11 +10,11 @@ This section demonstrates the day-to-day use of the help desk. I walk through ho
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer)
-- Remote Desktop (RDP)
-- osTicket (Helpdesk Software)
-- HeidiSQL (To see the data update in the background)
-- Web Browser (Chrome or Edge)
+- **Microsoft Azure** (Virtual Machines/Computer)
+- **Remote Desktop** (RDP)
+- **osTicket** (Helpdesk Software)
+- **HeidiSQL** (To see the data update in the background)
+- **Web Browser** (Chrome or Edge)
 
 <h2>Operating Systems Used </h2>
 
