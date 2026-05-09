@@ -25,15 +25,15 @@ This section demonstrates the day-to-day use of the help desk. I walk through ho
 - **osTicket Installed**: The server must be live and reachable.
 - **Admin/Agent Account**: Created during the installation phase.
 - **Test User Account**: A dummy account to act as the "customer" with a problem.
-<h2>Installation Steps</h2>
-<h2>Step 1: Setting up the Virtual Workspace</h2>
+<h2>The Ticket Lifecycle Steps</h2>
+<h2>Step 1: The Request (Creating a Ticket)</h2>
 
 <p>
 <img width="1192" height="476" alt="step 1 osticket" src="https://github.com/user-attachments/assets/1771b82f-edb9-4613-bb19-61e5321b2d88" />
 
 </p>
 <p>
-Before installing software, you need a place for it to live. Use your Microsoft Azure lab to create a Windows 10 Virtual Machine. This acts as your dedicated office server.
+Every issue starts with a request. A user fills out a simple form explaining what’s wrong. The system then assigns a unique ticket number so the request is never lost or forgotten.
 </p>
 <br />
 <h2>Step 2: Preparing the Web Server (IIS)</h2>
