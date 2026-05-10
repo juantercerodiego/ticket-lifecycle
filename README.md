@@ -29,7 +29,7 @@ This section demonstrates the day-to-day use of the help desk. I walk through ho
 <h2>Step 1: The Request (Creating a Ticket)</h2>
 
 <p>
-<img width="1192" height="476" alt="step 1 osticket" src="https://github.com/user-attachments/assets/1771b82f-edb9-4613-bb19-61e5321b2d88" />
+<img width="934" height="740" alt="image" src="https://github.com/user-attachments/assets/0bc5bf5b-d3ca-44b6-b468-4be98afa9585" />
 
 </p>
 <p>
