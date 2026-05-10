@@ -62,11 +62,4 @@ The Agent talks back and forth with the user, troubleshoots the issue, and works
 Once the problem is fixed, the Agent marks it as "Resolved." The user gets a final notification, and the ticket is filed away in your digital cabinet.
 </p>
 <br />
-<h2>Step 5: (Final Install & Success)</h2>
-<p>
-<img width="1110" height="598" alt="step 5" src="https://github.com/user-attachments/assets/38617844-3423-422d-8c7b-501aec1c7fbe" />
 
-</p>
-<p>
-After getting the "engine" (PHP) and the "filing cabinet" (MySQL) ready, I finally hit the ignition. I finished the setup through my browser and landed on the success screen. This proves the help desk is officially live, working perfectly, and ready to start handling real support tickets!
-</p>
