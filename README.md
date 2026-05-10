@@ -29,7 +29,8 @@ This section demonstrates the day-to-day use of the help desk. I walk through ho
 <h2>Step 1: The Request (Creating a Ticket)</h2>
 
 <p>
-<img width="927" height="750" alt="Screenshot 2026-05-10 124141" src="https://github.com/user-attachments/assets/bde7667e-5df0-4761-b4ab-45547ae97945" />
+<img width="927" height="730" alt="image" src="https://github.com/user-attachments/assets/cabfd231-293a-4f8b-b349-04b105e4e304" />
+
 
 
 </p>
