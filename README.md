@@ -29,7 +29,7 @@ This section demonstrates the day-to-day use of the help desk. I walk through ho
 <h2>Step 1: The Request (Creating a Ticket)</h2>
 
 <p>
-<img width="927" height="730" alt="image" src="https://github.com/user-attachments/assets/cabfd231-293a-4f8b-b349-04b105e4e304" />
+<img width="927" height="700" alt="image" src="https://github.com/user-attachments/assets/cabfd231-293a-4f8b-b349-04b105e4e304" />
 
 
 
@@ -40,7 +40,7 @@ Every issue starts with a request. A user fills out a simple form explaining wha
 <br />
 <h2>Step 2: The Hand-off (Assignment) </h2>
 <p>
-<img width="647" height="493" alt="step 2" src="https://github.com/user-attachments/assets/4b008e5f-5591-4361-aee3-465137420484" />
+<img width="1299" height="800" alt="Screenshot 2026-05-11 113026" src="https://github.com/user-attachments/assets/d2dab1b5-1f6b-4f64-b95a-fdaffd16b113" />
 </p>
 <p>
 The ticket goes to the right "department" (like Support or Billing). A specific person, called an Agent, takes ownership of it.
