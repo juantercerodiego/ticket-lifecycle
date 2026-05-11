@@ -48,7 +48,8 @@ The ticket goes to the right "department" (like Support or Billing). A specific 
 <br />
 <h2>Step 3: The Work (In Progress)</h2>
 <p>
-<img width="951" height="510" alt="step 3" src="https://github.com/user-attachments/assets/d9c3ee16-3b5d-4db7-8500-6e9c2b7b36c4" />
+<img width="946" height="550" alt="Screenshot 2026-05-11 115129" src="https://github.com/user-attachments/assets/aebc1f03-8b13-4599-8a61-b2b0aae9603a" />
+
 
 </p>
 <p>
