@@ -58,11 +58,12 @@ The Agent talks back and forth with the user, troubleshoots the issue, and works
 <br />
 <h2>Step 4: The Finish Line (Resolved/Closed)</h2>
 <p>
-<img width="980" height="598" alt="step4" src="https://github.com/user-attachments/assets/445a572f-782c-41a7-b1e7-136735e64e7f" />
+<img width="1415" height="700" alt="Screenshot 2026-05-11 170436" src="https://github.com/user-attachments/assets/c38cbf38-5817-45be-86fc-188a450cfb0a" />
+
 
 </p>
 <p>
-Once the problem is fixed, the Agent marks it as "Resolved." The user gets a final notification, and the ticket is filed away in your digital cabinet.
+Once the problem is fixed, the Agent marks it as "Closed" or "Resolved." The user gets a final notification, and the ticket is filed away in your digital cabinet.
 </p>
 <br />
 
